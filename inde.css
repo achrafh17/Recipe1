@@ -1,0 +1,103 @@
+body {
+     background-color: hsl(30, 18%, 87%);
+
+}
+#img {
+    width: 100%;
+    height:10% ;
+}
+h1{
+    margin-top: 30px;
+    font-size: 120px;
+}
+p{
+    margin-top: 30px;
+    font-size: 80px;
+}
+.main {
+margin-left: 120px;
+margin-right: 120px;
+}
+.ingredient {
+    background-color: 	#FFE4E1;
+    width: 100%;
+    height: 600px;
+
+}
+#preparation {
+    padding-left: 70px;
+   padding-top: 70px;
+    color: #800080;
+    font-size: 80px;
+
+}
+.pt {
+font-size: 60px;
+color: hsl(30, 10%, 34%);
+margin-left: 120px;
+}
+#li {
+   padding-left:  50px;
+}
+
+#In {/* Ingredients titre */
+     color:  #8B4513;
+     font-size: 90px;
+}
+.listeIn {
+    font-size: 60px;
+    color: hsl(30, 10%, 34%);
+}
+hr {
+   height: 1px;
+   color: black;
+   background-color: black;
+}
+#Inst{/* h2 instructions*/
+    color:  #8B4513;
+    font-size: 90px;
+
+}
+
+.instruction {/*pour la liste ol*/
+ color: hsl(30, 10%, 34%);
+}
+
+
+
+  
+  ol li {
+    color: hsl(30, 10%, 34%); /* Couleur pour le texte */
+    font-size: 60px;
+  }
+  
+  #neutrition {
+    color:  #8B4513;
+    font-size: 90px;
+
+  }
+  #pn{
+    color: hsl(30, 10%, 34%);
+  }
+  .a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .b {
+    display: flex;
+    justify-content: space-between;
+  }
+  .c {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .d {
+    display: flex;
+    justify-content: space-between;
+  }
+  #gauche {
+    color: #8B4513;
+    padding-left: 9px;
+  }
